@@ -1,5 +1,27 @@
 # React + TypeScript + Vite
 
+## Installation
+
+To run notes-app locally, follow these steps:
+1. **Fork the repository**
+   
+2. **Clone the repository**:
+   ```sh
+   git clone https://github.com/yourusername/notes-app.git
+   ```
+3. **Navigate to the project directory**:
+   ```sh
+   cd notes-app
+   ```
+4. **Install the necessary dependencies**:
+   ```sh
+   npm install
+   ```
+5. **Run the application**:
+   ```sh
+   npm run dev
+   ```
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
